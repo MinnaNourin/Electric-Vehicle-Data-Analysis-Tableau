@@ -1,4 +1,4 @@
-# ⚡ Electric Vehicle Population Data Analysis — Tableau Dashboard
+# Electric Vehicle Population Data Analysis — Tableau Dashboard
 
 ![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat\&logo=tableau\&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Data-data.gov-0052CC?style=flat\&logo=databricks\&logoColor=white)
@@ -16,7 +16,7 @@ An interactive Tableau dashboard exploring EV adoption trends, manufacturer domi
 
 ## 🔗 Live Dashboard
 
-👉 **View on Tableau Public**
+👉 https://public.tableau.com/views/EV_17767706477450/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -36,13 +36,13 @@ The goal is to uncover actionable insights about:
 
 | Visual                      | Description                                             |
 | --------------------------- | ------------------------------------------------------- |
-| 📈 KPI Scorecards           | Total EVs, Avg. Electric Range, Total BEVs, Total PHEVs |
-| 📅 EV Growth by Model Year  | Area chart showing year-over-year adoption growth       |
-| 🗺️ Geographic Distribution | State-level map of EV concentration                     |
-| 🏆 Top 10 Makes             | Bar chart of leading EV manufacturers                   |
-| 🍩 BEV vs PHEV Split        | Donut chart showing vehicle type distribution           |
-| ✅ CAFV Eligibility          | Clean fuel incentive eligibility breakdown              |
-| 🚗 Top 10 Models            | Most popular EV models in the dataset                   |
+| KPI Scorecards           | Total EVs, Avg. Electric Range, Total BEVs, Total PHEVs |
+| EV Growth by Model Year  | Area chart showing year-over-year adoption growth       |
+| Geographic Distribution | State-level map of EV concentration                     |
+| Top 10 Makes             | Bar chart of leading EV manufacturers                   |
+| BEV vs PHEV Split        | Donut chart showing vehicle type distribution           |
+| CAFV Eligibility          | Clean fuel incentive eligibility breakdown              |
+| Top 10 Models            | Most popular EV models in the dataset                   |
 
 💡 *All visuals support cross-filtering — click any chart element to dynamically filter the entire dashboard.*
 
